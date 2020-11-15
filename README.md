@@ -3,7 +3,7 @@ These files are to classify spam emails using Support Vector Mechine, SVM.
 
 As the ungraded/optional exercise of the coursera course 'Mechine Learning' of Andrew Ng, these files contain functions written by Andrew such as readFile.m, porterStemmer.m, svmTrain.m, and svmPredict.m. Thank Dr. Ng for providing such a great course.
 
-Data used are downloaded from the SpamAssassin Public Corpus (http://spamassassin.apache.org/old/publiccorpus/ ) and saved in the folder of SpamData.
+Data used should be downloaded from the SpamAssassin Public Corpus (http://spamassassin.apache.org/old/publiccorpus/ ) and saved in the folder of SpamData. There is a simple guide in the folder.
 
 Please run script files as following steps:
 
