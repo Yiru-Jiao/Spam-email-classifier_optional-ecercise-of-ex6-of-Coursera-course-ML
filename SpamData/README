@@ -1,11 +1,13 @@
 Data used should be downloaded from the SpamAssassin Public Corpus (http://spamassassin.apache.org/old/publiccorpus/ ) and saved in this folder.
 Please follow the steps below to ensure code running.
+
 Step1. open the link and read the file 'readme.html'
 Step2. select compressed files of SPAM and NON-SPAM emails (I personally recommend 'spam_2' and 'easy_ham_2' because their volumes are similar) 
-Step3. download the compressed files you choosed in Step2 and unzip them to corresponding folders of 'spam' and 'non-spam' (notice we need all seperate emails in the corresponding folder)
+Step3. download the compressed files you chose in Step2 and unzip them to corresponding folders of 'spam' and 'non-spam' (notice we need all separate emails in the corresponding folder)
 Step4. open the folder 'spam', pull the vertical scroll bar of the folder down to the bottom, and delete the file 'cmds' (it contains file names, but we won't use it)
 Step5. open the folder 'non-spam', and do what done in the Step4
-Step6. at last, check that the folder is like following:
+Step6. at last, check that the folder is like the following:
+
 SpamData/spam/00001.317e78fa8ee2f54cd4890fdc09ba8176
              /00002.9438920e9a55591b18e60d1ed37d992b
              ...
